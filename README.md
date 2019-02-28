@@ -22,3 +22,7 @@
 | Sensor   | Flex Sensor 2.2"                                                 | 5      | https://www.sparkfun.com/products/10264                                                                             |
 | Sensor   | MPU-9250                                                         | 1      | https://www.gearbest.com/sensors/pp_244846.html?wid=1433363                                                         |
 | Module   | HC-06 Serial Port Slave Transceiver Bluetooth Module for Arduino | 1      | https://www.gearbest.com/other-accessories/pp_009935025230.html?wid=1433363                                         |
+
+## Tengingar
+
+![alt text](https://github.com/Robertingi00/Glove-FORR3FV/blob/master/Diagram/allConnection.png "conncetion diagram")
