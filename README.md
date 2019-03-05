@@ -2,17 +2,33 @@
 
 
 ## Hugmynd
-* Við vildum gera nýtt víðmót, margar hugmyndir komu upp en við vorum mest spenntir fyrir hanska. Hanskinn á að vera lítill svo hann fellur inn í umhverfið. Hannskinn er með nokkur input og sendir á master tölvuna sem tekur á móti sendinugnni og sendir hvað á að gera, til dæmis að kveikja ljós.
+* **Gamalt:** Við vildum gera nýtt víðmót, margar hugmyndir komu upp en við vorum mest spenntir fyrir hanska. Hanskinn á að vera lítill svo hann fellur inn í umhverfið. Hannskinn er með nokkur input og sendir á master tölvuna sem tekur á móti sendinugnni og sendir hvað á að gera, til dæmis að kveikja ljós.
+
+* **Nýtt:** Við viljum gera auðvelt og þægilegt viðmót, margar hugmyndir komu upp en við vorum mest spenntir fyrir hanska. Hanskinn á að vera eins lítið áberandi og hægt er, hann á að lesa hreyfingar á puttum og halla. Allar upplýsingar frá skynjurunum sendast beint á Raspberry PI og vinnur svo úr þeim gögnum, t.d. kveikja ljós.
 
 ## Input
+**Gamalt:**
 * Inputinn á hanskanum eru allir puttarnir. Ef þú beyjir buttan þinn þá mun einhvað gerast. Við erum með 32 takk á hanskanum sem við getum látið gera alskonar hluti.
 * Gyro, það verður gyro til að geta fundo snúning handarinnar.
 * Accelerometer, það verður accelerometer til þess að geta vitað hvort hendinn sé að fara hreyfasig.
 * Magnetometer, magnetometer verður notaður til þess að finna áttirnar, eins og áttaviti.
 
+**Nýtt:**
+* Flex sensor:
+  * Skynjari fyrir hvern fingur, les hvað mikið er búið að beyja fingurinn.
+* Gyro:
+  * Skynjari sem les halla á allri hendinni.
+* Accelerometer:
+  * Skynjari sem les hröðun á hendinni.
+* Magnetometer:
+  * Skynjari sem les í hvaða átt er snúið.
 
-## Output 
+## Output
+**Gamalt:**
 * Fyrsta humyndinn var að stjórna litlum bíl. En svo fórum við í að pæla hvering við getum notað hanskann í annað, planið er að hanskinn gæti  stjórnað öllu. Það þarf bara að tengann við tækið sem hann á að stjórna og vita hvað hann á að senda til tækið.
+
+**Nýtt:**
+* Fyrst datt okkur í hug að stjórna fjarstýrðum bíl, en svo fannst okkur við geta tekið þetta lengra. Hanskinn á að geta þjónað sem eðlilegt output tæki, lesa þarf bara hvað notandinn er að gera og Raspberry PI gerir viðeigandi ráðstafanir (keyrir réttann profile eftir því hverju notandinn er að stýra)
 
 ## Partar
 | PartType | Partar                                                           | Fjöldi | Vefslóð                                                                                                             |
