@@ -23,7 +23,7 @@
 | Tölva    | Nano V3.0 ATmega328P Controller Board for Arduino                | 1      | https://www.gearbest.com/boards-shields/pp_1313295.html?wid=1433363                                                 |
 | Tölva    | Raspberry Pi 3 - Model B+                                        | 1      | https://www.modmypi.com/raspberry-pi/raspberry-pi-a-plusb-plus23-1015/rpi3-model-b-plus/raspberry-pi-3-model-b-plus |
 | Sensor   | Flex Sensor 2.2"                                                 | 5      | https://www.sparkfun.com/products/10264                                                                             |
-| Sensor   | MPU-9250                                                         | 1      | https://www.gearbest.com/sensors/pp_244846.html?wid=1433363                                                         |
+| Sensor   | MPU-6050                                                         | 1      | https://www.gearbest.com/sensors/pp_009636731429.html?wid=1433363                                                   |
 | Module   | HC-06 Serial Port Slave Transceiver Bluetooth Module for Arduino | 1      | https://www.gearbest.com/other-accessories/pp_009935025230.html?wid=1433363                                         |
 | Transmitter / Receiver | NRF24L01+ 2.4GHz Wireless Module | 2 | https://www.gearbest.com/boards-shields/pp_337367.html?wid=1527929 |
 | Transmitter / Receiver | (NRF24L01 + PA + LNA) 1100M Distance Wireless Module with Antenna | 2 | https://www.gearbest.com/transmitters-receivers-module/pp_440447.html?wid=1433363#anchorGoodsReviews |
