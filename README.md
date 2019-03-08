@@ -36,7 +36,7 @@ Við viljum gera auðvelt og þægilegt viðmót, margar hugmyndir komu upp en v
 
 ## Tengingar
 
-![alt text](https://github.com/Robertingi00/Glove-FORR3FV/blob/master/Diagram/allConnection.png "conncetion diagram")
+![alt text](https://github.com/Robertingi00/Glove-FORR3FV/blob/master/Docs/Diagram/allConnection.png "conncetion diagram")
 
 ## IP Address
 10.201.32.55
