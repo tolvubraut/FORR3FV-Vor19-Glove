@@ -28,7 +28,7 @@
 | Module   | DC Motor Driver                                                  | 4      | https://www.gearbest.com/other-accessories/pp_009613984158.html?wid=1433363                                         |
 | Transmitter / Receiver | NRF24L01+ 2.4GHz Wireless Module | 2 | https://www.gearbest.com/boards-shields/pp_337367.html?wid=1527929                                                                         |
 | Transmitter / Receiver | (NRF24L01 + PA + LNA) 1100M Distance Wireless Module with Antenna | 2 | https://www.gearbest.com/transmitters-receivers-module/pp_440447.html?wid=1433363#anchorGoodsReviews      |
-| Batteri  |                 | 1      | https://www.gearbest.com/boards-shields/pp_1313295.html?wid=1433363                                                 |
+
 
 
 ## Tengingar
