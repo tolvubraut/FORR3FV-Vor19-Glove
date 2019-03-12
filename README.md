@@ -4,7 +4,7 @@
 
 Við viljum gera auðvelt og þægilegt viðmót, margar hugmyndir komu upp en við vorum mest spenntir fyrir hanska. Hanskinn á að vera eins lítið áberandi og hægt er, hann á að lesa hreyfingar á puttum og halla. Allar upplýsingar frá skynjurunum sendast beint á Raspberry PI og vinnur svo úr þeim gögnum, t.d. kveikja ljós.
 
-<img src="Docs/Images/glove_img.jpg" height="200"/> <img src="Docs/Images/gesture_img.png" height="200"/>
+<img src="Docs/Images/glove_img.jpg" height="250"/> <img src="Docs/Images/gesture_img.png" height="250"/>
 
 ## Input
 * Flex sensor:
