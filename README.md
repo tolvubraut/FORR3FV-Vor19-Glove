@@ -34,7 +34,7 @@ Við viljum gera auðvelt og þægilegt viðmót, margar hugmyndir komu upp en v
 | Transmitter / Receiver | 5pcs NRF24L01 2.4GHz Wireless                      | 1      | https://www.gearbest.com/transmitters-receivers-module/pp_009999100621.html?wid=1433363                             |
 | Battery | Original Xiaomi ZMI | 2 | https://www.gearbest.com/power-banks/pp_009865650334.html?wid=1433363 |
 | Battery | Original Xiaomi  | 1 | https://www.gearbest.com/mobile-power-bank/pp_187685.html?wid=1527929 |
-|||| 19.807-kr.|
+|||| 19.807 kr-,|
 
 
 
