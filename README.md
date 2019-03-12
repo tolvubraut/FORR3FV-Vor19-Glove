@@ -21,6 +21,8 @@ Við viljum gera auðvelt og þægilegt viðmót, margar hugmyndir komu upp en v
 * Fyrst datt okkur í hug að stjórna fjarstýrðum bíl, en svo fannst okkur við geta tekið þetta lengra. Hanskinn á að geta þjónað sem eðlilegt output tæki, lesa þarf bara hvað notandinn er að gera og Raspberry PI gerir viðeigandi ráðstafanir (keyrir réttann profile eftir því hverju notandinn er að stýra)
 
 ## Partar
+
+
 | PartType               | Partar                                                           | Fjöldi   | Vefslóð                                                                                                                        |
 | :----------------------|:-----------------------------------------------------------------|:---------|:-------------------------------------------------------------------------------------------------------------------------------|
 | Tölva                  | Nano V3.0 ATmega328P Controller Board for Arduino                | 1        | https://www.gearbest.com/boards-shields/pp_1313295.html?wid=1433363                                                            |
