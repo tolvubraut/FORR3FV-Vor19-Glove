@@ -1,11 +1,10 @@
 # Glove-FORR3FV
-
-
+ 
 ## Hugmynd
 
 Við viljum gera auðvelt og þægilegt viðmót, margar hugmyndir komu upp en við vorum mest spenntir fyrir hanska. Hanskinn á að vera eins lítið áberandi og hægt er, hann á að lesa hreyfingar á puttum og halla. Allar upplýsingar frá skynjurunum sendast beint á Raspberry PI og vinnur svo úr þeim gögnum, t.d. kveikja ljós.
 
-<img src="Docs/Images/glove_img.jpg" height="260"/> <img src="Docs/Images/gesture_img.png" height="260"/>
+<img src="Docs/Images/glove_img.jpg" height="200"/> <img src="Docs/Images/gesture_img.png" height="200"/>
 
 ## Input
 * Flex sensor:
@@ -26,7 +25,7 @@ Við viljum gera auðvelt og þægilegt viðmót, margar hugmyndir komu upp en v
 | PartType               | Partar                                                           | Fjöldi   | Vefslóð                                                                                                                        |
 | :----------------------|:-----------------------------------------------------------------|:---------|:-------------------------------------------------------------------------------------------------------------------------------|
 | Tölva                  | Nano V3.0 ATmega328P Controller Board for Arduino                | 1        | https://www.gearbest.com/boards-shields/pp_1313295.html?wid=1433363                                                            |
-| Tölva                  | Raspberry Pi 3 - Model B+                                        | 1        | https://www.modmypi.com/raspberry-pi/raspberry-pi-a-plusb-plus23-1015/rpi3-model-b-plus/raspberry-pi-3-model-b-plus            |
+| Tölva                  | Raspberry Pi 3 - Model B+                                        | 1 (komið)| https://www.modmypi.com/raspberry-pi/raspberry-pi-a-plusb-plus23-1015/rpi3-model-b-plus/raspberry-pi-3-model-b-plus            |
 | Tölva                  | Raspberry Pi Zero                                                | 1        | https://www.modmypi.com/raspberry-pi/raspberry-pi-zero-board-379/rpi-zero-board/raspberry-pi-zero-wireless-pre-soldered-header |
 | Sensor                 | Flex Sensor 2.2"                                                 | 5        | https://www.sparkfun.com/products/10264                                                                                        |
 | Sensor                 | MPU-6050                                                         | 1        | https://www.gearbest.com/sensors/pp_009636731429.html?wid=1433363                                                              |
@@ -42,7 +41,11 @@ Við viljum gera auðvelt og þægilegt viðmót, margar hugmyndir komu upp en v
 
 ## Tengingar
 
-![alt text](https://github.com/Robertingi00/Glove-FORR3FV/blob/master/Docs/Diagram/allConnection.png "conncetion diagram")
 
-## IP Address
-10.201.32.55
+<img src="Docs/Diagram/allConnection.png" width="100%"/>
+
+
+## Höfundar
+
+Pétur Steinn Guðmundsson & Róbert Ingi Hálfdanarson.
+
