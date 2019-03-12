@@ -1,11 +1,10 @@
 # Glove-FORR3FV
-
-
+ 
 ## Hugmynd
 
 Við viljum gera auðvelt og þægilegt viðmót, margar hugmyndir komu upp en við vorum mest spenntir fyrir hanska. Hanskinn á að vera eins lítið áberandi og hægt er, hann á að lesa hreyfingar á puttum og halla. Allar upplýsingar frá skynjurunum sendast beint á Raspberry PI og vinnur svo úr þeim gögnum, t.d. kveikja ljós.
 
-<img src="Docs/Images/glove_img.jpg" height="260"/> <img src="Docs/Images/gesture_img.png" height="260"/>
+<img src="Docs/Images/glove_img.jpg" height="250"/> <img src="Docs/Images/gesture_img.png" height="250"/>
 
 ## Input
 * Flex sensor:
@@ -42,7 +41,11 @@ Við viljum gera auðvelt og þægilegt viðmót, margar hugmyndir komu upp en v
 
 ## Tengingar
 
-![alt text](https://github.com/Robertingi00/Glove-FORR3FV/blob/master/Docs/Diagram/allConnection.png "conncetion diagram")
 
-## IP Address
-10.201.32.55
+<img src="Docs/Diagram/allConnection.png" width="100%"/>
+
+
+## Höfundar
+
+Pétur Steinn Guðmundsson & Róbert Ingi Hálfdanarson.
+
