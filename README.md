@@ -25,10 +25,14 @@ Við viljum gera auðvelt og þægilegt viðmót, margar hugmyndir komu upp en v
 | PartType               | Partar                                                           | Fjöldi   | Vefslóð                                                                                                                        |
 | :----------------------|:-----------------------------------------------------------------|:---------|:-------------------------------------------------------------------------------------------------------------------------------|
 | Tölva                  | Nano V3.0 ATmega328P Controller Board for Arduino                | 1        | [Slóð](https://www.gearbest.com/boards-shields/pp_1313295.html?wid=1433363)                                                            |
+<<<<<<< HEAD
 | Tölva                  | Raspberry Pi 3 - Model B+                                        | 1 | [Slóð](https://www.modmypi.com/raspberry-pi/raspberry-pi-a-plusb-plus23-1015/rpi3-model-b-plus/raspberry-pi-3-model-b-plus)            |
+=======
+| Tölva                  | Raspberry Pi 3 - Model B+                                        | 1        | [Slóð](https://www.modmypi.com/raspberry-pi/raspberry-pi-a-plusb-plus23-1015/rpi3-model-b-plus/raspberry-pi-3-model-b-plus)            |
+>>>>>>> 36edb5d65bf0a23e02ca1a96d279e5e441d8f301
 | Tölva                  | Raspberry Pi Zero                                                | 1        | [Slóð](https://www.modmypi.com/raspberry-pi/raspberry-pi-zero-board-379/rpi-zero-board/raspberry-pi-zero-wireless-pre-soldered-header) |
 | Sensor                 | Flex Sensor 2.2"                                                 | 5        | [Slóð](https://www.sparkfun.com/products/10264)                                                                                        |
-| Sensor                 | MPU-6050                                                         | 1        | [Slóð](https://www.gearbest.com/sensors/pp_009636731429.html?wid=1433363)                                                              |
+| Sensor                 | MPU-6050                                                         | 2        | [Slóð](https://www.gearbest.com/sensors/pp_009636731429.html?wid=1433363)                                                              |
 | Module                 | DC Motor Driver                                                  | 4        | [Slóð](https://www.gearbest.com/other-accessories/pp_009613984158.html?wid=1433363)                                                    |
 | Transmitter / Receiver | NRF24L01+ 2.4GHz Wireless Module                                 | 2        | [Slóð](https://www.gearbest.com/boards-shields/pp_337367.html?wid=1527929)                                                             |
 | Transmitter / Receiver | (NRF24L01 + PA + LNA) 1100M Distance Wireless Module with Antenna| 2        | [Slóð](https://www.gearbest.com/transmitters-receivers-module/pp_440447.html?wid=1433363#anchorGoodsReviews)                           |
