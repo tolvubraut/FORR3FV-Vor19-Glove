@@ -13,17 +13,27 @@ private:
     int pin2;
     int pin3;
     int pin4;
+    int handState[4];
 public:
     FlexSensor(int pin1, int pin2, int pin3, int pin4){
         this->pin1 = pin1;
         this->pin2 = pin2;
         this->pin3 = pin3;
         this->pin4 = pin4;
+        this->handState[0] = pin1;
+        this->handState[1] = pin2;
+        this->handState[2] = pin3;
+        this->handState[3] = pin4;
     };
 
 
-    int FlexSensor::getValue(){
- 
+    int FlexSensor::getPos(){
+
+      // int handState[4] = {pin1, pin2, pin3, pin4};
+
+    };
+    int FlexSensor::getState(){
+
         // # Kóðar fyrir putta
         // handCodes = [1,2,4,8]
             //
@@ -40,14 +50,17 @@ public:
         //     if handState[i] > limit:
         //         sm += handCodes[i]
         // print(sm)
-     
+
         int handCodes[4] = {1,2,4,8};
-     
-        int handState[4] = {pin1, pin2, pin3, pin4};
-     
-        float limit = 128;
+
+        // int handState[4] = {pin1, pin2, pin3, pin4};
+
+
+
+        float limit = 250;
         int sm = 0;
         for (int i = 0; i < 4; i++) {
+            Serial.println(analogRead(handState[i]));
             if (analogRead(handState[i]) > limit) {
                 sm += handCodes[i];
             }
