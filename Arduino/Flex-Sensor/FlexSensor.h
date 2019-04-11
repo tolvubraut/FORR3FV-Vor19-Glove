@@ -32,7 +32,34 @@ FlexSensors::FlexSensors(pin1, pin2, pin3, pin4, pin5){
 };
 
 FlexSensors::getSensorsValue(){
-	sensors[5] = { digitalRead(pin1), digitalRead(pin2), digitalRead(pin3), digitalRead(pin4), digitalRead(pin5)};
-	return sensors;
-}
 
+    // # Kóðar fyrir putta
+    // handCodes = [1,2,4,8]
+		//
+    // # Values af puttunum
+    // handState = [225, 201, 104, 230]
+		//
+    // # Skilgreina hvenær putti er "niðri"
+    // limit = 128
+		//
+    // # Summa
+    // sm = 0
+		//
+    // for i in range(4):
+    //     if handState[i] > limit:
+    //         sm += handCodes[i]
+    // print(sm)
+
+	handCodes[4] = {1,2,4,8};
+
+	handState[4] = {digitalRead(pin1), digitalRead(pin2), digitalRead(pin3), digitalRead(pin4)};
+
+	int limit = 128;
+	int sm = 0;
+	for (int i = 0; i < 4; i++) {
+		if (handState[i] > limit) {
+			sm += handCodes[i];
+		}
+	}
+	return sm;
+}
