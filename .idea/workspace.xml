@@ -10,23 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df633202-80e3-4884-b023-f2eac7830d3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Glove_FORR3FV.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arduino/libraries/Flex-Sensor/flexSensor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arduino/libraries/Flex-Sensor/flexSensor.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arduino/libraries/MPU6050/MPU6050_tockn.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arduino/libraries/MPU6050/MPU6050_tockn.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arduino/libraries/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arduino/main/main.ino" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arduino/Flex-Sensor/FlexSensor.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arduino/MPU-6050/gyro.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arduino/NRF24L01/nrf24l01.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino/libraries/NRF24L01/nrf24l01.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arduino/NRF24L01/nrf24l01.h" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino/libraries/NRF24L01/nrf24l01.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arduino/main.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arduino/main/main.ino" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino/main/main.ino" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +47,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Arduino/libraries/Flex-Sensor/flexSensor.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
+            <state relative-caret-position="425">
               <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
             </state>
           </provider>
@@ -71,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Arduino/main/main.ino">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+            <state relative-caret-position="459">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -123,15 +108,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="32767" />
+    <option name="y" value="32767" />
+    <option name="width" value="1943" />
+    <option name="height" value="1103" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,7 +161,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,18 +193,19 @@
       <updated>1554388059847</updated>
       <workItem from="1554388061174" duration="8299000" />
       <workItem from="1554544582932" duration="27000" />
-      <workItem from="1554798706684" duration="2927000" />
+      <workItem from="1554798706684" duration="3122000" />
+      <workItem from="1554806367035" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11253000" />
+    <option name="totallyTimeSpent" value="12046000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="26214" y="26214" width="1554" height="882" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14563107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.072289154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -255,6 +242,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Arduino/main/main.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Arduino/libraries/MPU6050/MPU6050_tockn.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
@@ -269,16 +263,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arduino/main/main.ino">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arduino/libraries/Flex-Sensor/flexSensor.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
+        <state relative-caret-position="425">
           <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
         </state>
       </provider>
