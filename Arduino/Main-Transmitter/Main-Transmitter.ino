@@ -49,11 +49,12 @@ void loop()
   data.handState = flex.getState();
   data.gyroY = mpu6050.getAccAngleY();
   data.gyroX = mpu6050.getAccAngleX();
+  Serial.println("ayy");
 
   // Búa til data til þess að senda
   //const char text[] = "Hello World";
   // Senda data
   radio.write(&data, sizeof(data));
 
-  delay(1000);
+  // delay(1000);
 }
