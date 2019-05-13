@@ -38,7 +38,7 @@ Við viljum gera auðvelt og þægilegt viðmót, margar hugmyndir komu upp en v
 
 ## Tengingar
 
-<img src="Docs/Diagram/allConnection.png" width="100%"/>
+<img src="../Docs/Diagram/allConnection.png" width="100%"/>
 
 ## Höfundar
 
