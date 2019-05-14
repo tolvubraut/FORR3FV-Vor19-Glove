@@ -36,8 +36,9 @@ Pétur byrjaði þá að lóða vélbúnaðinn fyrir hanskann saman eftir teikni
 <div style="display:grid;grid-template-columns: 1fr 2fr;grid-column-gap:10px;grid-row-gap:10px;margin-top:10px">
     <img src="Docs/Images/IMG_3953.gif" width="500"/> 
     <div>
-    <h2 style="text-align:center">Myndband</h2>
-    <a style="display:block" href="https://youtu.be/JWqPTePuuJo"><img src="https://img.youtube.com/vi/JWqPTePuuJo/0.jpg" width=""/></a></div>
+    <a style="display:block" href="https://youtu.be/JWqPTePuuJo"><img src="https://img.youtube.com/vi/JWqPTePuuJo/0.jpg" width=""/></a>
+    <h2 style="text-align:center">Myndband</h2>    
+    </div>
 </div>
 
 ## Íhlutir
