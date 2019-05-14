@@ -31,10 +31,26 @@ Pétur byrjaði þá að lóða vélbúnaðinn fyrir hanskann saman eftir teikni
     <img src="Docs/Images/IMG_3955.png" width="500"/> 
     <img src="Docs/Images/IMG_3957.png" width="500"/> 
     <img src="Docs/Images/IMG_3958.png" width="500"/> 
-    <img src="Docs/Images/IMG_3953.gif" width="500"/> 
 </div>
 
-## Leiðbeiningar við notkun
+<div style="display:grid;grid-template-columns: 1fr 2fr;grid-column-gap:10px;grid-row-gap:10px;margin-top:10px">
+    <img src="Docs/Images/IMG_3953.gif" width="500"/> 
+    <a href="https://youtu.be/JWqPTePuuJo"><img src="https://img.youtube.com/vi/JWqPTePuuJo/0.jpg" width=""/></a>
+</div>
+
+## Íhlutir
+
+- Arduino Nano & Mega 2560
+- NRF24L01 2stk - Sendir
+- MPU6050 1stk - Gyro
+- Flex-sensor 4stk
+- LED 30stk
+
+## Viðbætur
+
+- Gera tenginguna betri.
+- Laga leiðni í _"LED leiknum"_ þar sem tvær díóður leiða saman.
+- Nota þetta við fleiri tæki.
 
 ## Í lokin
 
@@ -42,3 +58,8 @@ Pétur byrjaði þá að lóða vélbúnaðinn fyrir hanskann saman eftir teikni
 - Ekki er ég (Pétur) nógu ánægður með lóðunina sem átti sig stað.
 - Allt of mikill tími fór í að laga mistök varðandi samsetningu á _"LED leiknum"_.
 - MVP systir Róberts nr. 3 af 6 saumaði íhlutina við hanskann.
+- NRF24 sendingarnar voru mikið að detta út. Þess vegna er mikil seinnkun á viðbrögðum í díóðunum.
+
+## Nemendur
+
+Róbert Ingi Hálfdanarson & Pétur Steinn Guðmundsson
