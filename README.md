@@ -6,6 +6,10 @@ Verkefnið snérist um að nota hendina sem viðmót til þess að stýra ýmsum
 
 Þessi vélbúnaður átti að vera notaður til þess að stjórna fjarstýrðum bíl, mögulega dróna, _"LED leik"_ ofl. _"LED leikurinn"_ var það eina sem við náðum að klára (önnum kafnir í öðrum verkefnum).
 
+[Nánar um hugmyndina og teningar](https://github.com/tolvubraut/FORR3FV-Vor19-Glove/tree/master/Concept/README.md)
+
+
+
 ## Ferli
 
 Áður en við fengum partana, byrjuðum við á því að kynna okkur ítarlega vélbúnaðinn sem við vorum að panta. Við héldum utanum heimildir yfir ýmsa parta eins og NRF24L01. Róbert hannaði tengingamyndir fyrir alla íhlutina. Ásamt skrifuðum við (mest Róbert) tilbúna kóða til að nota með íhlutunum.
@@ -57,8 +61,10 @@ Pétur byrjaði þá að lóða vélbúnaðinn fyrir hanskann saman eftir teikni
 
 ## Í lokin
 
+<!-- 
 - Ég (Pétur) er mjög slappur í allri C kóðun sem á við Arduino. Það bætist á næstu önn þegar ég (vonandi) fer í C++ áfangan.
 - Ekki er ég (Pétur) nógu ánægður með lóðunina sem átti sig stað.
+-->
 - Allt of mikill tími fór í að laga mistök varðandi samsetningu á _"LED leiknum"_.
 - MVP systir Róberts nr. 3 af 6 saumaði íhlutina við hanskann.
 - NRF24 sendingarnar voru mikið að detta út. Þess vegna er mikil seinnkun á viðbrögðum í díóðunum.
