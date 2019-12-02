@@ -1,4 +1,3 @@
-# Glove-FORR3FV Skýrsla
 
 ## Verkefnalýsing
 
