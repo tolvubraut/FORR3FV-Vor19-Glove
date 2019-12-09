@@ -5,7 +5,8 @@ Verkefnið snérist um að nota hendina sem viðmót til þess að stýra ýmsum
 
 Þessi vélbúnaður átti að vera notaður til þess að stjórna fjarstýrðum bíl, mögulega dróna, _"LED leik"_ ofl. _"LED leikurinn"_ var það eina sem við náðum að klára (önnum kafnir í öðrum verkefnum).
 
-[Nánar lýsing](https://github.com/tolvubraut/FORR3FV-Vor19-Glove/tree/master/Concept/README.md)
+[Nánari lýsing](https://github.com/tolvubraut/FORR3FV-Vor19-Glove/tree/master/Concept/README.md)
+
 https://github.com/tolvubraut/FORR3FV-Vor19-Glove/tree/master/Concept/README.md
 
 
