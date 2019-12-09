@@ -8,7 +8,7 @@ Verkefnið snérist um að nota hendina sem viðmót til þess að stýra ýmsum
 [Nánari lýsing](https://github.com/tolvubraut/FORR3FV-Vor19-Glove/tree/master/Concept/README.md)
 
 <!-- target _parent til að linkur virki í iframe -->
-<a target="_parent" href="https://github.com/tolvubraut/FORR3FV-Vor19-Glove/tree/master/Concept/README.md/iframe.html">Nánari lýsing</a>
+<a target="_parent" href="https://github.com/tolvubraut/FORR3FV-Vor19-Glove/tree/master/Concept/README.md">Nánari lýsing</a>
 
 
 ## Ferli
@@ -41,7 +41,7 @@ Pétur byrjaði þá að lóða vélbúnaðinn fyrir hanskann saman eftir teikni
 <div style="display:grid;grid-template-columns: 1fr 2fr;grid-column-gap:10px;grid-row-gap:10px;margin-top:10px">
     <img src="Docs/Images/IMG_3953.gif" width="500"/> 
     <div>
-    <a style="display:block" href="https://youtu.be/JWqPTePuuJo"><img src="https://img.youtube.com/vi/JWqPTePuuJo/0.jpg" width=""/></a>
+    <a style="display:block" target="_parent" href="https://youtu.be/JWqPTePuuJo"><img src="https://img.youtube.com/vi/JWqPTePuuJo/0.jpg" width=""/></a>
     <h2 style="text-align:center">Myndband</h2>    
     </div>
 </div>
