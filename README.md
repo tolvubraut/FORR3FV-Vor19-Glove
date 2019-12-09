@@ -7,9 +7,8 @@ Verkefnið snérist um að nota hendina sem viðmót til þess að stýra ýmsum
 
 [Nánari lýsing](https://github.com/tolvubraut/FORR3FV-Vor19-Glove/tree/master/Concept/README.md)
 
-<!-- Tilraun: nota target _parent til að linkur virki í iframe -->
-<a target="_parent" href="https://github.com/tolvubraut/FORR3FV-Vor19-Glove/tree/master/Concept/README.md
-">Nánari lýsing</a>
+<!-- target _parent til að linkur virki í iframe -->
+<a target="_parent" href="https://github.com/tolvubraut/FORR3FV-Vor19-Glove/tree/master/Concept/README.md/iframe.html">Nánari lýsing</a>
 
 
 ## Ferli
