@@ -4,8 +4,9 @@
 Verkefnið snérist um að nota hendina sem viðmót til þess að stýra ýmsum hlutum þráðlaust, við ákvöddum að græða vélbúnaðinn í hanska.
 
 Þessi vélbúnaður átti að vera notaður til þess að stjórna fjarstýrðum bíl, mögulega dróna, _"LED leik"_ ofl. _"LED leikurinn"_ var það eina sem við náðum að klára (önnum kafnir í öðrum verkefnum).
-
+<!--
 [Nánari lýsing](https://github.com/tolvubraut/FORR3FV-Vor19-Glove/tree/master/Concept/README.md)
+-->
 
 <!-- target _parent til að linkur virki í iframe -->
 <a target="_parent" href="https://github.com/tolvubraut/FORR3FV-Vor19-Glove/tree/master/Concept/README.md">Nánari lýsing</a>
